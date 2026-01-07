@@ -1,0 +1,14 @@
+*.mat
+*.npz
+*.csv
+data/
+*.pt
+*.pth
+checkpoints/
+logs/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
