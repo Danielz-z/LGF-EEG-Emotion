@@ -4,6 +4,10 @@
 for **subject-independent EEG emotion recognition** under the **Leave-One-Subject-Out (LOSO)**
 evaluation protocol.
 
+📄 **Paper**:  
+**Local–Global Feature Fusion for Subject-Independent EEG Emotion Recognition**  
+https://arxiv.org/abs/2601.08094
+
 This repository provides the complete pipeline including EEG feature extraction,
 graph-based connectivity modeling, multifractal analysis, model training, and evaluation.
 
