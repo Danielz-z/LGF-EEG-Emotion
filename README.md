@@ -1,12 +1,13 @@
 # LGF-EEG-Emotion
 
-**LGF-EEG-Emotion** is a PyTorch implementation of a **local-global feature fusion framework**
+**LGF-EEG-Emotion** is a PyTorch implementation of a **local–global feature fusion framework**
 for **subject-independent EEG emotion recognition** under the **Leave-One-Subject-Out (LOSO)**
 evaluation protocol.
 
 📄 **Paper**:  
 **Local–Global Feature Fusion for Subject-Independent EEG Emotion Recognition**  
-https://arxiv.org/abs/2601.08094
+Accepted as an **Oral Presentation** at the **IEEE Engineering in Medicine and Biology Conference (EMBC)**.  
+Preprint: https://arxiv.org/abs/2601.08094
 
 This repository provides the complete pipeline including EEG feature extraction,
 graph-based connectivity modeling, multifractal analysis, model training, and evaluation.
