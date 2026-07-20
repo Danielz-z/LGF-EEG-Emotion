@@ -4,14 +4,6 @@
 for **subject-independent EEG emotion recognition** under the **Leave-One-Subject-Out (LOSO)**
 evaluation protocol.
 
-📄 **Paper**:  
-**Local–Global Feature Fusion for Subject-Independent EEG Emotion Recognition**  
-Accepted as an **Oral Presentation** at the **IEEE Engineering in Medicine and Biology Conference (EMBC)**.  
-Preprint: https://arxiv.org/abs/2601.08094
-
-This repository provides the complete pipeline including EEG feature extraction,
-graph-based connectivity modeling, multifractal analysis, model training, and evaluation.
-
 ---
 
 ## Overview
@@ -26,6 +18,23 @@ This project proposes a **local–global feature fusion framework**, which integ
 
 A transformer-based architecture is adopted to effectively fuse heterogeneous modalities
 and improve subject-independent generalization.
+
+---
+
+## Highlights & Achievements
+
+### Awards & Recognition
+
+- 📄 **Paper accepted as an Oral Presentation** at the **IEEE Engineering in Medicine and Biology Conference (EMBC)**.
+- **Local–Global Feature Fusion for Subject-Independent EEG Emotion Recognition**  
+  Preprint: https://arxiv.org/abs/2601.08094
+
+### Core Highlights
+
+- **Local–global feature fusion**: combines channel-wise EEG, graph-based connectivity, and multifractal features.
+- **Subject-independent evaluation**: strictly follows the LOSO protocol.
+- **Transformer-based architecture** for fusing heterogeneous modalities.
+- **Complete PyTorch pipeline**: feature extraction → model training → evaluation.
 
 ---
 
@@ -63,7 +72,6 @@ LGF-EEG-Emotion/
 ├── LICENSE
 └── README.md
 ```
-
 
 ---
 
@@ -119,6 +127,7 @@ Each training run:
 - Repeats for all subjects
 
 ---
+
 ## Evaluation
 
 To compute aggregated metrics and confusion matrices:
@@ -126,7 +135,9 @@ To compute aggregated metrics and confusion matrices:
 ```bash
 python evaluation/compute_loso_mean_confusion_and_metrics.py
 ```
+
 ---
+
 ## Dependencies
 
 ```bash
@@ -163,4 +174,3 @@ A BibTeX entry will be provided upon paper publication.
 ## Contact
 
 For questions, issues, or suggestions, please open an issue on GitHub.
-
