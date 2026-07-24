@@ -1,5 +1,7 @@
 # LGF-EEG-Emotion
 
+English | [简体中文][zh-cn]
+
 **LGF-EEG-Emotion** is a PyTorch implementation of a **local–global feature fusion framework**
 for **subject-independent EEG emotion recognition** under the **Leave-One-Subject-Out (LOSO)**
 evaluation protocol.
@@ -174,3 +176,5 @@ A BibTeX entry will be provided upon paper publication.
 ## Contact
 
 For questions, issues, or suggestions, please open an issue on GitHub.
+
+[zh-cn]: README.zh-CN.md
