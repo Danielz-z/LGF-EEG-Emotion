@@ -31,6 +31,11 @@ and improve subject-independent generalization.
 - **Local–Global Feature Fusion for Subject-Independent EEG Emotion Recognition**  
   Preprint: https://arxiv.org/abs/2601.08094
 
+<p align="center">
+  <img src="pics/embc_oral_presentation.jpg" width="320" alt="Oral presentation at IEEE EMBC, Metro Toronto Convention Centre" /><br>
+  <sub>Oral presentation at IEEE EMBC, Toronto</sub>
+</p>
+
 ### Core Highlights
 
 - **Local–global feature fusion**: combines channel-wise EEG, graph-based connectivity, and multifractal features.

@@ -26,6 +26,11 @@
 - **Local–Global Feature Fusion for Subject-Independent EEG Emotion Recognition**  
   预印本：https://arxiv.org/abs/2601.08094
 
+<p align="center">
+  <img src="pics/embc_oral_presentation.jpg" width="320" alt="在 IEEE EMBC（多伦多）进行口头报告" /><br>
+  <sub>IEEE EMBC 口头报告现场（多伦多）</sub>
+</p>
+
 ### 核心亮点
 
 - **局部-全局特征融合**：结合通道级 EEG、图连接特征和多重分形特征。
