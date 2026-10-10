@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="pics/embc_oral_presentation.jpg" width="320" alt="在 IEEE EMBC（多伦多）进行口头报告" /><br>
-  <sub>IEEE EMBC 口头报告现场（多伦多）</sub>
+  <sub>Camilo E. Valderrama 教授在 IEEE EMBC（多伦多）进行口头报告</sub>
 </p>
 
 ### 核心亮点

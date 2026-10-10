@@ -33,7 +33,7 @@ and improve subject-independent generalization.
 
 <p align="center">
   <img src="pics/embc_oral_presentation.jpg" width="320" alt="Oral presentation at IEEE EMBC, Metro Toronto Convention Centre" /><br>
-  <sub>Oral presentation at IEEE EMBC, Toronto</sub>
+  <sub>Oral presentation delivered by Prof. Camilo E. Valderrama at IEEE EMBC, Toronto</sub>
 </p>
 
 ### Core Highlights
